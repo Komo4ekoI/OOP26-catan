@@ -1,4 +1,4 @@
-package it.unibo.sampleapp;
+package it.unibo.catan;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertNotNull;

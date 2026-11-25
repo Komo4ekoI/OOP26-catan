@@ -1,4 +1,4 @@
-package it.unibo.sampleapp;
+package it.unibo.catan;
 
 /**
  * Base application class.
